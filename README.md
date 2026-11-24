@@ -211,9 +211,6 @@ These scores are not probabilities or percentages. Correlated features may share
 
 The trained model is integrated into an interactive Streamlit dashboard.
 
-**Live application:**  
-https://network-intrusion-detection-ds.streamlit.app/
-
 ### Application Modules
 
 | Module | Description |
@@ -382,11 +379,11 @@ Potential improvements include:
 
 ## 👨‍💻 Author
 
-**Srinjay Saha**
+**Aesha sharma**
 
 MCA Student | AI/ML & Full-Stack Developer
 
-- **GitHub:** https://github.com/srinjaysaha1605
+- **GitHub:** https://github.com/aeshasharma
 
 ---
 
