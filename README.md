@@ -3,10 +3,6 @@
 ### Machine Learning-Based Network Traffic Classification
 
 A machine learning-based network intrusion detection system that classifies network traffic as **Normal** or **Malicious** using the UNSW-NB15 dataset and a trained Random Forest classifier.
-
-<p align="center">
-  <a href="https://network-intrusion-detection-ds.streamlit.app/?utm_source=chatgpt.com#network-intrusion-detection-system">
-    <strong>🚀 Live Application</strong>
   </a>
   &nbsp; • &nbsp;
   <a href="https://research.unsw.edu.au/projects/unsw-nb15-dataset">
